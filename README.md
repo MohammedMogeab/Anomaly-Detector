@@ -407,9 +407,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 ### Documentation
-- [User Guide](docs/user-guide.md)
-- [API Reference](docs/api-reference.md)
-- [Developer Guide](docs/developer-guide.md)
+- [User Guide](anomaly_detector_api/docs/user-guide.md)
+- [API Reference](anomaly_detector_api/docs/api-reference.md)
+- [Developer Guide](anomaly_detector_api/docs/developer-guide.md)
 
 ### Getting Help
 - Create an issue for bug reports
